@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{CustomModelData:17999,display:{Name: '{"text":"Infinity Gauntlet","color":"gold","italic":false}'}}

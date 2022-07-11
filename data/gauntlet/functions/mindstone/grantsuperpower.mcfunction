@@ -1,0 +1,6 @@
+execute as @s at @s run effect give @e[distance=2..,sort=nearest,limit=1,type=!item,type=!minecraft:armor_stand,type=!minecraft:marker,type=!minecraft:area_effect_cloud] glowing 100 0
+execute as @s at @s run effect give @e[distance=2..,sort=nearest,limit=1,type=!item,type=!minecraft:armor_stand,type=!minecraft:marker,type=!minecraft:area_effect_cloud] strength 100 4
+execute as @s at @s run effect give @e[distance=2..,sort=nearest,limit=1,type=!item,type=!minecraft:armor_stand,type=!minecraft:marker,type=!minecraft:area_effect_cloud] resistance 100 3
+execute as @s at @s run effect give @e[distance=2..,sort=nearest,limit=1,type=!item,type=!minecraft:armor_stand,type=!minecraft:marker,type=!minecraft:area_effect_cloud] regeneration 100 9
+execute as @s at @s run effect give @e[distance=2..,sort=nearest,limit=1,type=!item,type=!minecraft:armor_stand,type=!minecraft:marker,type=!minecraft:area_effect_cloud] absorption 100 9
+execute as @s at @s run effect give @e[distance=2..,sort=nearest,limit=1,type=!item,type=!minecraft:armor_stand,type=!minecraft:marker,type=!minecraft:area_effect_cloud] instant_health 100 5
